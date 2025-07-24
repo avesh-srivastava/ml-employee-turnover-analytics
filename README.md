@@ -115,26 +115,32 @@ A bar chart visualizes the distribution of employees across these zones.
 - imbalanced-learn (`pip install imbalanced-learn`)
 
 ### Run the notebook
-git clone https://github.com/yourusername/employee-turnover-analytics.git
-cd employee-turnover-analytics
-jupyter notebook
+> git clone https://github.com/yourusername/employee-turnover-analytics.git
+> cd employee-turnover-analytics
+> jupyter notebook
 
 ---
 
 ## Folder Structure (Recommended)
+
+```
 employee-turnover-analytics/
 │
 ├── data/
 │   └── HR_comma_sep.csv
-│
+
 ├── notebooks/
-│   └── Employee Turnover.ipynb
+│   └── Employee_Turnover_Analytics.ipynb
 │
 ├── images/
 │   └── charts, ROC curves, confusion matrix, etc.
 │
+├── outputs/
+│   └── Employee_Turnover_Analytics.html
+│
 ├── README.md
 └── requirements.txt
+```
 
 ---
 
