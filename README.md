@@ -69,9 +69,9 @@ Visualizations include:
 
 | Model                 | Accuracy | Precision | Recall | F1-Score | AUC  |
 |-----------------------|----------|-----------|--------|----------|------|
-| Logistic Regression   | 78%      | 0.77–0.80 | 0.76–0.81 | 0.78–0.79 | ~0.86 |
+| Logistic Regression   | 78%      | 0.77–0.80 | 0.76–0.81 | 0.78–0.79 | ~0.81 |
 | Random Forest         | 98%      | 0.97–0.99 | 0.97–1.00 | 0.98      | ~0.99 |
-| Gradient Boosting     | 96%      | 0.94–0.97 | 0.94–0.97 | 0.96      | ~0.97 |
+| Gradient Boosting     | 96%      | 0.94–0.97 | 0.94–0.97 | 0.96      | ~0.99 |
 
 **Random Forest** was selected as the best-performing model.
 
